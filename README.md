@@ -12,19 +12,19 @@ L'analista ha d'assegurar-se que els registres consisteixen en una gamma complet
 
 Com Científic de Dades se t'ha proporcionat accés als registres-Logs on queda registrada l'activitat de totes les visites a realitzades a la pàgina web de l'agència de viatges "akumenius.com".
 
-- Exercici 1
+- Exercici 1  
 Estandaritza, identifica i enumera cada un dels atributs / variables de l'estructura de l'arxiu "Web_access_log-akumenius.com" que trobaràs al repositori de GitHub "Data-sources".
 
-Nivell 2
+Nivell 2  
 
-- Exercici 2
-Neteja, preprocesa, estructura i transforma (dataframe) les dades del registre d'Accés a la web.
+- Exercici 2  
+Neteja, preprocesa, estructura i transforma (dataframe) les dades del registre d'Accés a la web.  
 
-- Exercici 3
+- Exercici 3  
 
-Geolocalitza les IP's.
+Geolocalitza les IP's.  
 
-Nivell 3
+Nivell 3  
 
-- Exercici 3
-Mostra'm la teva creativitat, Sorprèn-me fes un pas més enllà amb l'anàlisi anterior.
+- Exercici 3  
+Mostra'm la teva creativitat, Sorprèn-me fes un pas més enllà amb l'anàlisi anterior.  
