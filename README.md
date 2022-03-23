@@ -21,7 +21,6 @@ Nivell 2
 Neteja, preprocesa, estructura i transforma (dataframe) les dades del registre d'Accés a la web.  
 
 - Exercici 3  
-
 Geolocalitza les IP's.  
 
 Nivell 3  
